@@ -1,0 +1,1 @@
+export const BACKENR_URL = "https://backend.avtganubhavvijay.workers.dev/api/v1/blog"
